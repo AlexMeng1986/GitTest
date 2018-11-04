@@ -1,1 +1,2 @@
-Git is a very nice software.
+Git is a very nice software. 
+I like it.
